@@ -1,0 +1,10 @@
+#Vbox {
+
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+#Grid.Jbutton1{
+
+    -fx-margin : 2px;
+}
